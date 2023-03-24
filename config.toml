@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Jeremias Sur'
+theme = 'hugo-theme-nostyleplease'

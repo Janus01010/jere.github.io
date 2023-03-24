@@ -1,0 +1,36 @@
+[[entries]]
+title = "About"
+  [[entries.entries]]
+  title = "reader, artist, wannabe-thinker"
+  
+    [[entries.entries]]
+    title = "current (new) interests"
+    
+             [[entries.entries.entries]]
+    title = "judaism"
+    
+                 [[entries.entries.entries]]
+    title = "painting"
+ 
+    [[entries]]
+title = "Blog"
+
+  [entries.post_list]
+  limit = 10
+  show_more = true
+  show_more_text = "everything"
+  show_more_url = "posts"
+
+
+
+[[entries]]
+title = "Socials"
+
+  [[entries.entries]]
+  title = "<a href='https://www.instagram.com/jere.mee.as/'>instagram</a>"
+
+  [[entries.entries]]
+  title = "<a href='https://www.linkedin.com/in/jeremias-sur-5a6b321b8/'>linkedin</a>"
+
+[[entries.entries]]
+title = "<a href='https://github.com/Janus01010'>github</a> (old blog)"
